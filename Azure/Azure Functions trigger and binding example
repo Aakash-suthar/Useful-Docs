@@ -1,6 +1,6 @@
 Azure Functions trigger and binding example
 
-[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-example)
+[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-example/).
 
 public static class QueueTriggerTableOutput
 {
