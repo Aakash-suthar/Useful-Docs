@@ -2,6 +2,7 @@ Azure Functions trigger and binding example
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-example/).
 
+```
 public static class QueueTriggerTableOutput
 {
     [FunctionName("QueueTriggerTableOutput")]
@@ -25,5 +26,6 @@ public class Person
     public string Name { get; set; }
     public string MobileNumber { get; set; }
 }
+```
 
 You now have a working function that is triggered by an Azure Queue and outputs data to Azure Table storage.
