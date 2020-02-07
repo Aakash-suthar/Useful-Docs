@@ -17,6 +17,7 @@ Power BI is a Data Visualization and Business Intelligence tool that converts da
 
 Stream Anayltics - 
 Basically means we do analysis on data that is streaming real time.
+Real time means data that is shared/stream directly from the devices or source over the network.
 Streaming analytics work by allowing organizations to set up real-time analytics computations on data streaming from applications, social media, sensors, devices, websites and more.
 Streaming analytics provide quick and appropriate time-sensitive processing along with language integration for intuitive specifications.
 Streaming analytics are highly scalable and can easily handle high event throughput of up to 1 GB/second.
