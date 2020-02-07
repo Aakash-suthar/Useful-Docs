@@ -19,6 +19,9 @@ Stream Anayltics -
 Basically means we do analysis on data that is streaming real time.
 Streaming analytics work by allowing organizations to set up real-time analytics computations on data streaming from applications, social media, sensors, devices, websites and more.
 Streaming analytics provide quick and appropriate time-sensitive processing along with language integration for intuitive specifications.
+Streaming analytics are highly scalable and can easily handle high event throughput of up to 1 GB/second.
+It is reliable and can help prevent data loss through its built-in recovery capabilities.
+Streaming analytics is a cloud-based service and thus is a low cost solution. 
 
  
 Creating alerts, feeding information to a reporting tool, or storing transformed data for later use. 
